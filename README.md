@@ -1,0 +1,2 @@
+# soccer_database_analysis
+连接数据库，从数据库中提取球员基本数据，并输出到json文件，将json中的数据转换到CSV文件中
